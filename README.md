@@ -1,5 +1,4 @@
 # decrypt_file
-Decrypting file using Fernet key
-You're gonna need to install cryptography package to run this program.
-The command is 'pip install cryptography'
+Decrypts file using Fernet key
+To run this program you're gonna need to install cryptography package, to install run 'pip install cryptography' in the command prompt (cmd)
 You're gonna need the Fernet key used to encrypt the file. 
